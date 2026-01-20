@@ -1,6 +1,5 @@
 hello welcome to a.txt
 
-
 we are thrilled to welcome you to the wonderland
 Welcome to terminal :t6
 
@@ -18,7 +17,11 @@ Welcome to terminal :t6
 
 welcome to terminal:t9
 
-=======
+
 we are thrilled to welcome to the playstation
 welcome to terminal :t8
+
+we are thrilled to welcome you to the wonderland
+Welcome to terminal :t6
+(added this)
 
