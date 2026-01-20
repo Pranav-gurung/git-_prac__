@@ -1,1 +1,4 @@
-i welocm you all to the new brnach b.txt
+I welcome you all to the new brnach b.txt
+this part contains--
+logs 
+directories 
