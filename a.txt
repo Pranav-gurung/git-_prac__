@@ -6,3 +6,4 @@ Welcome to terminal :t7
 we are thrilled to welcome you to the wonderland
 Welcome to terminal :t6
 
+welcome to terminal:t9
