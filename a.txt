@@ -1,3 +1,8 @@
 hello welcome to a.txt
+
 we are thrilled to welcome you to the wonderland
 Welcome to terminal :t6
+
+we are thrilled to join you in the adventure 
+Welcome to terminal :t7
+
