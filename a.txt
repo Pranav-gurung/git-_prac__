@@ -25,3 +25,6 @@ we are thrilled to welcome you to the wonderland
 Welcome to terminal :t6
 (added this)
 
+welcome to terminal :t15
+welcome to terminal :t16
+
